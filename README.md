@@ -24,9 +24,11 @@ NLTK / TextBlob (for NLP)
 ## Getting Started
 
 1. **Clone the Repository**
+
    git clone https://github.com/AtaKimi/Learning-AI.git
 
 2. **Install Dependencies**
+
 pip install -r requirements.txt
 
 Note: Some notebooks may require additional libraries (e.g. NLTK, TextBlob).
